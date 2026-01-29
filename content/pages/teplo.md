@@ -3,7 +3,7 @@ type: PageLayout
 title: This is a new teplo page
 sections:
   - type: DividerSection
-    title: Divider
+    title: Divider f
     elementId: ''
     colors: bg-light-fg-dark
     styles:
